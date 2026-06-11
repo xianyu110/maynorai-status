@@ -11,7 +11,7 @@ sites:
   - name: Codex 中国站
     url: https://codex.maynorai.top/
     slug: codex-china
-  - name: CCSwitch Codex 节点
+  - name: gpt5.5模型 测活
     url: https://codex.maynor1024.live/
     slug: ccswitch-codex
   - name: Gemini 镜像站
@@ -26,7 +26,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: momoAI Status
   introTitle: "momoAI 服务状态"
-  introMessage: "公开展示 momoAI 主站、API、Codex、CCSwitch 节点与 Gemini 镜像站的可用性。状态数据由 GitHub Actions 自动探测并提交，故障记录可追溯。"
+  introMessage: "公开展示 momoAI 主站、API、Codex、gpt5.5模型与 Gemini 镜像站的可用性。状态数据由 GitHub Actions 自动探测并提交，故障记录可追溯。"
   navbar:
     - title: 状态
       href: /
