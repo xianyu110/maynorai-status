@@ -30,14 +30,6 @@ status-website:
   navbar:
     - title: 状态
       href: /
-    - title: momoAI
-      href: https://maynorai.top/
-    - title: API Pro
-      href: https://apipro.maynor1024.live/
-    - title: 永不失联
-      href: https://link3.cc/maynorai
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 i18n:
   activeIncidents: 当前故障
