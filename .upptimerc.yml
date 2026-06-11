@@ -28,7 +28,7 @@ status-website:
   introTitle: "MaynorAI 服务状态"
   introMessage: "公开展示 MaynorAI 主站、体验首页、API、Codex、Gemini 镜像站与发布页的可用性。状态数据由 GitHub Actions 自动探测并提交，故障记录可追溯。"
   navbar:
-    - title: Status
+    - title: 状态
       href: /
     - title: MaynorAI
       href: https://maynorai.top/
@@ -38,3 +38,66 @@ status-website:
       href: https://link3.cc/maynorai
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+i18n:
+  activeIncidents: 当前故障
+  allSystemsOperational: 所有服务运行正常
+  incidentReport: "故障 #$NUMBER 报告 →"
+  activeIncidentSummary: "$DATE 创建，共 $POSTS 条记录"
+  incidentTitle: 故障 $NUMBER 详情
+  incidentDetails: 故障详情
+  incidentFixed: 已修复
+  incidentOngoing: 处理中
+  incidentOpenedAt: 开始时间
+  incidentClosedAt: 恢复时间
+  incidentViewOnGitHub: 在 GitHub 查看和订阅
+  incidentCommentSummary: "$DATE 由 $AUTHOR 发布"
+  incidentBack: ← 返回全部故障
+  pastIncidents: 历史故障
+  pastIncidentsResolved: "$MINUTES 分钟内恢复，共 $POSTS 条记录"
+  liveStatus: 实时状态
+  overallUptime: "总可用率：$UPTIME"
+  overallUptimeTitle: 总可用率
+  averageResponseTime: "平均响应时间：$TIMEms"
+  averageResponseTimeTitle: 平均响应
+  sevelDayResponseTime: 7 天响应时间
+  responseTimeMs: 响应时间（ms）
+  up: 正常
+  down: 异常
+  degraded: 降级
+  ms: 毫秒
+  loading: 加载中
+  navGitHub: GitHub
+  footer: 本状态页[开源]($REPO)，由 [Upptime](https://upptime.js.org) 驱动
+  rateLimitExceededTitle: 请求频率超限
+  rateLimitExceededIntro: 当前 IP 在一小时内的 GitHub API 请求次数已达上限，请稍后再访问。也可以添加 GitHub Personal Access Token 继续访问。
+  rateLimitExceededWhatDoesErrorMean: 这个错误是什么意思？
+  rateLimitExceededErrorMeaning: 本网站使用 GitHub API 读取实时状态数据。默认情况下，GitHub 每小时允许每个 IP 地址 60 次请求。
+  rateLimitExceededErrorHowCanFix: 如何解决？
+  rateLimitExceededErrorFix: 可以等待一小时后自动恢复，也可以添加 GitHub Personal Access Token，将额度提高到每小时 5000 次请求。
+  rateLimitExceededGeneratePAT: 查看如何生成 Personal Access Token
+  rateLimitExceededHasSet: 已设置 personal access token。
+  rateLimitExceededRemoveToken: 移除 token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: 粘贴你的 token
+  rateLimitExceededSaveToken: 保存 token
+  errorTitle: 出现错误
+  errorIntro: 获取最新状态详情时出现错误。
+  errorText: 请稍后重试。
+  errorHome: 返回首页
+  pastScheduledMaintenance: 历史计划维护
+  scheduledMaintenance: 计划维护
+  scheduledMaintenanceSummaryStarted: "$DATE 开始，持续 $DURATION 分钟"
+  scheduledMaintenanceSummaryStarts: "$DATE 开始，预计 $DURATION 分钟"
+  startedAt: 开始时间
+  startsAt: 预计开始
+  duration: 持续时间
+  durationMin: $DURATION 分钟
+  incidentCompleted: 已完成
+  incidentScheduled: 已计划
+  duration24H: 24 小时
+  duration7D: 7 天
+  duration30D: 30 天
+  duration1Y: 1 年
+  durationAll: 全部
+  locale: zh-CN
