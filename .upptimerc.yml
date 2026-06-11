@@ -5,9 +5,6 @@ sites:
   - name: MaynorAI 主站
     url: https://maynorai.top/
     slug: maynorai-main
-  - name: MaynorAI 体验首页
-    url: https://maynorai.top/list/#/home
-    slug: maynorai-home
   - name: MaynorAPI Pro
     url: https://apipro.maynor1024.live/
     slug: maynorapi-pro
@@ -26,7 +23,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: MaynorAI Status
   introTitle: "MaynorAI 服务状态"
-  introMessage: "公开展示 MaynorAI 主站、体验首页、API、Codex、Gemini 镜像站与发布页的可用性。状态数据由 GitHub Actions 自动探测并提交，故障记录可追溯。"
+  introMessage: "公开展示 MaynorAI 主站、API、Codex、Gemini 镜像站与发布页的可用性。状态数据由 GitHub Actions 自动探测并提交，故障记录可追溯。"
   navbar:
     - title: 状态
       href: /

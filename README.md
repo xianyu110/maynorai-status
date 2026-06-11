@@ -15,7 +15,6 @@ https://github.com/xianyu110/maynorai-status
 ## Monitored Services
 
 - MaynorAI 主站: https://maynorai.top/
-- MaynorAI 体验首页: https://maynorai.top/list/#/home
 - MaynorAPI Pro: https://apipro.maynor1024.live/
 - Codex 中国站: https://codex.maynorai.top/
 - Gemini 镜像站: https://kelaode.maynor1024.live/list/#/home
