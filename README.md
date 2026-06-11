@@ -6,7 +6,7 @@ MaynorAI public uptime status powered by [Upptime](https://upptime.js.org).
 
 Status website:
 
-https://xianyu110.github.io/maynorai-status/
+https://status.maynorai.top/
 
 Repository:
 
@@ -29,14 +29,7 @@ Configuration lives in [.upptimerc.yml](./.upptimerc.yml).
 
 ## Custom Domain
 
-Current GitHub Pages URL uses:
-
-```yaml
-status-website:
-  baseUrl: /maynorai-status
-```
-
-To use `status.maynorai.top`, add the DNS record in the domain provider, then replace the `baseUrl` line with:
+Current GitHub Pages custom domain uses:
 
 ```yaml
 status-website:

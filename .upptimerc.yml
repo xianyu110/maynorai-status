@@ -22,7 +22,7 @@ sites:
     slug: maynorai-link3
 
 status-website:
-  baseUrl: /maynorai-status
+  cname: status.maynorai.top
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: MaynorAI Status
   introTitle: "MaynorAI 服务状态"
