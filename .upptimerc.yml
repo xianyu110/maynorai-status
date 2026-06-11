@@ -30,6 +30,17 @@ status-website:
   navbar:
     - title: 状态
       href: /
+    - title: 永久导航页
+      href: https://link3.cc/maynorai
+  js: |
+    (function () {
+      if (window.location.pathname === "/error") {
+        try {
+          window.localStorage.removeItem("personal-access-token");
+        } catch (error) {}
+        window.location.replace("/");
+      }
+    })();
 
 i18n:
   activeIncidents: 当前故障
