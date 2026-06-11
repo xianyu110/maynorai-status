@@ -1,6 +1,6 @@
-# MaynorAI Status
+# momoAI Status
 
-MaynorAI public uptime status powered by [Upptime](https://upptime.js.org).
+momoAI public uptime status powered by [Upptime](https://upptime.js.org).
 
 ## Live Status
 
@@ -14,7 +14,7 @@ https://github.com/xianyu110/maynorai-status
 
 ## Monitored Services
 
-- MaynorAI 主站: https://maynorai.top/
+- momoAI 主站: https://maynorai.top/
 - MaynorAPI Pro: https://apipro.maynor1024.live/
 - Codex 中国站: https://codex.maynorai.top/
 - Gemini 镜像站: https://kelaode.maynor1024.live/list/#/home

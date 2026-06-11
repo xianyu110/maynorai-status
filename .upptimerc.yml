@@ -2,7 +2,7 @@ owner: xianyu110
 repo: maynorai-status
 
 sites:
-  - name: MaynorAI 主站
+  - name: momoAI 主站
     url: https://maynorai.top/
     slug: maynorai-main
   - name: MaynorAPI Pro
@@ -21,13 +21,13 @@ sites:
 status-website:
   cname: status.maynorai.top
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: MaynorAI Status
-  introTitle: "MaynorAI 服务状态"
-  introMessage: "公开展示 MaynorAI 主站、API、Codex、Gemini 镜像站与发布页的可用性。状态数据由 GitHub Actions 自动探测并提交，故障记录可追溯。"
+  name: momoAI Status
+  introTitle: "momoAI 服务状态"
+  introMessage: "公开展示 momoAI 主站、API、Codex、Gemini 镜像站与发布页的可用性。状态数据由 GitHub Actions 自动探测并提交，故障记录可追溯。"
   navbar:
     - title: 状态
       href: /
-    - title: MaynorAI
+    - title: momoAI
       href: https://maynorai.top/
     - title: API Pro
       href: https://apipro.maynor1024.live/
