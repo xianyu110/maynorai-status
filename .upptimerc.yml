@@ -14,9 +14,6 @@ sites:
   - name: Gemini 镜像站
     url: https://kelaode.maynor1024.live/list/#/home
     slug: gemini-mirror
-  - name: 永不失联发布页
-    url: https://link3.cc/maynorai
-    slug: maynorai-link3
 
 status-website:
   cname: status.maynorai.top
