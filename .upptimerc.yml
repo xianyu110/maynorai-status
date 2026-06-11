@@ -4,20 +4,28 @@ repo: maynorai-status
 sites:
   - name: MaynorAI 主站
     url: https://maynorai.top/
+    slug: maynorai-main
   - name: MaynorAI 体验首页
     url: https://maynorai.top/list/#/home
+    slug: maynorai-home
   - name: MaynorAI 购买兑换
     url: https://maynorai.top/list/#/shop
+    slug: maynorai-shop
   - name: MaynorAPI Pro
     url: https://apipro.maynor1024.live/
+    slug: maynorapi-pro
   - name: Codex 中国站
     url: https://codex.maynorai.top/
+    slug: codex-china
   - name: 永不失联发布页
     url: https://link3.cc/maynorai
+    slug: maynorai-link3
   - name: MaynorAI 博客资源
     url: https://maynor1024.live/
+    slug: maynorai-blog
   - name: 图床上传服务
     url: https://upload.maynor1024.live/
+    slug: maynorai-picbed
 
 status-website:
   baseUrl: /maynorai-status
