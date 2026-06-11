@@ -20,6 +20,7 @@ sites:
 
 status-website:
   cname: status.maynorai.top
+  apiBaseUrl: https://status-api.maynorai.top
   productionCacheTime: 3600000
   localhostCacheTime: 60000
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg

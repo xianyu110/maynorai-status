@@ -8,6 +8,23 @@ const GITHUB_API = "https://api.github.com";
 const OWNER = "xianyu110";
 const REPO = "maynorai-status";
 const CACHE_TTL_SECONDS = 300;
+const EXPOSED_HEADERS = [
+  "ETag",
+  "Link",
+  "Location",
+  "Retry-After",
+  "X-GitHub-OTP",
+  "X-RateLimit-Limit",
+  "X-RateLimit-Remaining",
+  "X-RateLimit-Used",
+  "X-RateLimit-Resource",
+  "X-RateLimit-Reset",
+  "X-Poll-Interval",
+  "X-GitHub-Media-Type",
+  "Deprecation",
+  "Sunset",
+  "Warning",
+].join(", ");
 
 function corsHeaders(origin) {
   const allowedOrigin = ALLOWED_ORIGINS.has(origin) ? origin : "https://status.maynorai.top";
@@ -16,9 +33,17 @@ function corsHeaders(origin) {
     "Access-Control-Allow-Origin": allowedOrigin,
     "Access-Control-Allow-Methods": "GET, HEAD, OPTIONS",
     "Access-Control-Allow-Headers": "Accept, Authorization, Content-Type, User-Agent",
+    "Access-Control-Expose-Headers": EXPOSED_HEADERS,
     "Access-Control-Max-Age": "86400",
     Vary: "Origin",
   };
+}
+
+function sanitizeResponseHeaders(response) {
+  response.headers.delete("Set-Cookie");
+  response.headers.delete("X-OAuth-Scopes");
+  response.headers.delete("X-Accepted-OAuth-Scopes");
+  response.headers.delete("Access-Control-Expose-Headers");
 }
 
 function jsonResponse(data, status, origin) {
@@ -68,6 +93,7 @@ export default {
     const cached = await cache.match(cacheKey);
     if (cached) {
       const response = new Response(cached.body, cached);
+      sanitizeResponseHeaders(response);
       response.headers.set("X-Worker-Cache", "HIT");
       Object.entries(headers).forEach(([key, value]) => response.headers.set(key, value));
       return response;
@@ -89,7 +115,7 @@ export default {
     });
 
     const response = new Response(upstreamResponse.body, upstreamResponse);
-    response.headers.delete("Set-Cookie");
+    sanitizeResponseHeaders(response);
     response.headers.set("Cache-Control", `public, max-age=${CACHE_TTL_SECONDS}`);
     response.headers.set("X-Worker-Cache", "MISS");
     Object.entries(headers).forEach(([key, value]) => response.headers.set(key, value));

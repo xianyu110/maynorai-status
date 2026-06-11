@@ -1,6 +1,8 @@
 name = "momoai-status-github-proxy"
 main = "worker.js"
 compatibility_date = "2026-06-11"
+workers_dev = false
+preview_urls = false
 
 # After deployment, add a custom route or Worker domain in Cloudflare.
 # Then set `status-website.apiBaseUrl` in ../.upptimerc.yml to that Worker URL.

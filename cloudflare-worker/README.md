@@ -10,7 +10,7 @@
 cd cloudflare-worker
 npx wrangler login
 npx wrangler secret put GITHUB_TOKEN
-npx wrangler deploy
+npx wrangler deploy --domain status-api.maynorai.top
 ```
 
 `GITHUB_TOKEN` 建议使用 fine-grained token，只授予 `xianyu110/maynorai-status` 这个公开仓库所需的只读权限。
@@ -19,7 +19,7 @@ npx wrangler deploy
 
 ```yaml
 status-website:
-  apiBaseUrl: https://你的-worker域名
+  apiBaseUrl: https://status-api.maynorai.top
 ```
 
 然后提交推送，等 Upptime 的 Setup CI 重新生成 GitHub Pages。
@@ -27,7 +27,7 @@ status-website:
 ## 验证
 
 ```bash
-curl -i "https://你的-worker域名/repos/xianyu110/maynorai-status/issues?state=open&labels=status"
+curl -i "https://status-api.maynorai.top/repos/xianyu110/maynorai-status/issues?state=open&labels=status"
 ```
 
 如果响应头里出现 `X-Worker-Cache: MISS` 或 `X-Worker-Cache: HIT`，说明代理生效。
