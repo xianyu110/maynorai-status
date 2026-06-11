@@ -1,31 +1,38 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: xianyu110
+repo: maynorai-status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: MaynorAI 主站
+    url: https://maynorai.top/
+  - name: MaynorAI 体验首页
+    url: https://maynorai.top/list/#/home
+  - name: MaynorAI 购买兑换
+    url: https://maynorai.top/list/#/shop
+  - name: MaynorAPI Pro
+    url: https://apipro.maynor1024.live/
+  - name: Codex 中国站
+    url: https://codex.maynorai.top/
+  - name: 永不失联发布页
+    url: https://link3.cc/maynorai
+  - name: MaynorAI 博客资源
+    url: https://maynor1024.live/
+  - name: 图床上传服务
+    url: https://upload.maynor1024.live/
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /maynorai-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: MaynorAI Status
+  introTitle: "MaynorAI 服务状态"
+  introMessage: "公开展示 MaynorAI 主站、购买兑换、API、Codex、发布页与资源服务的可用性。状态数据由 GitHub Actions 自动探测并提交，故障记录可追溯。"
   navbar:
     - title: Status
       href: /
+    - title: MaynorAI
+      href: https://maynorai.top/
+    - title: API Pro
+      href: https://apipro.maynor1024.live/
+    - title: 永不失联
+      href: https://link3.cc/maynorai
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
