@@ -20,6 +20,8 @@ sites:
 
 status-website:
   cname: status.maynorai.top
+  productionCacheTime: 3600000
+  localhostCacheTime: 60000
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: momoAI Status
   introTitle: "momoAI 服务状态"
