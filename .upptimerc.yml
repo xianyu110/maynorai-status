@@ -29,6 +29,8 @@ status-website:
       href: /
     - title: 永久导航页
       href: https://link3.cc/maynorai
+    - title: GitHub
+      href: https://github.com/xianyu110/maynorai-status
   js: |
     (function () {
       if (window.location.pathname === "/error") {
