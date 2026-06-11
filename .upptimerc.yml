@@ -8,31 +8,25 @@ sites:
   - name: MaynorAI 体验首页
     url: https://maynorai.top/list/#/home
     slug: maynorai-home
-  - name: MaynorAI 购买兑换
-    url: https://maynorai.top/list/#/shop
-    slug: maynorai-shop
   - name: MaynorAPI Pro
     url: https://apipro.maynor1024.live/
     slug: maynorapi-pro
   - name: Codex 中国站
     url: https://codex.maynorai.top/
     slug: codex-china
+  - name: Gemini 镜像站
+    url: https://kelaode.maynor1024.live/list/#/home
+    slug: gemini-mirror
   - name: 永不失联发布页
     url: https://link3.cc/maynorai
     slug: maynorai-link3
-  - name: MaynorAI 博客资源
-    url: https://maynor1024.live/
-    slug: maynorai-blog
-  - name: 图床上传服务
-    url: https://upload.maynor1024.live/
-    slug: maynorai-picbed
 
 status-website:
   baseUrl: /maynorai-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: MaynorAI Status
   introTitle: "MaynorAI 服务状态"
-  introMessage: "公开展示 MaynorAI 主站、购买兑换、API、Codex、发布页与资源服务的可用性。状态数据由 GitHub Actions 自动探测并提交，故障记录可追溯。"
+  introMessage: "公开展示 MaynorAI 主站、体验首页、API、Codex、Gemini 镜像站与发布页的可用性。状态数据由 GitHub Actions 自动探测并提交，故障记录可追溯。"
   navbar:
     - title: Status
       href: /
