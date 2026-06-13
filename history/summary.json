@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2772,
-    "timeDay": 0,
-    "timeWeek": 2772,
-    "timeMonth": 2772,
-    "timeYear": 2772,
+    "time": 2713,
+    "timeDay": 1759,
+    "timeWeek": 2713,
+    "timeMonth": 2713,
+    "timeYear": 2713,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 325,
-    "timeDay": 0,
-    "timeWeek": 325,
-    "timeMonth": 325,
-    "timeYear": 325,
+    "time": 322,
+    "timeDay": 278,
+    "timeWeek": 322,
+    "timeMonth": 322,
+    "timeYear": 322,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/codex.chatgpt-plus.top.ico",
     "slug": "codex-china",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptime": "91.40%",
+    "uptimeDay": "81.36%",
+    "uptimeWeek": "91.40%",
+    "uptimeMonth": "91.40%",
+    "uptimeYear": "91.40%",
     "time": 1321,
     "timeDay": 19706,
     "timeWeek": 1321,
     "timeMonth": 1321,
     "timeYear": 1321,
     "dailyMinutesDown": {
-      "2026-06-13": 5
+      "2026-06-13": 268
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/codex.maynor1024.live.ico",
     "slug": "ccswitch-codex",
     "status": "down",
-    "uptime": "84.95%",
-    "uptimeDay": "71.39%",
-    "uptimeWeek": "84.95%",
-    "uptimeMonth": "84.95%",
-    "uptimeYear": "84.95%",
+    "uptime": "77.49%",
+    "uptimeDay": "53.10%",
+    "uptimeWeek": "77.49%",
+    "uptimeMonth": "77.49%",
+    "uptimeYear": "77.49%",
     "time": 303,
     "timeDay": 0,
     "timeWeek": 303,
     "timeMonth": 303,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2026-06-13": 15,
+      "2026-06-13": 279,
       "2026-06-12": 397
     }
   },
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 910,
-    "timeDay": 0,
-    "timeWeek": 910,
-    "timeMonth": 910,
-    "timeYear": 910,
+    "time": 890,
+    "timeDay": 589,
+    "timeWeek": 890,
+    "timeMonth": 890,
+    "timeYear": 890,
     "dailyMinutesDown": {}
   }
 ]
