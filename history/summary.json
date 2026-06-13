@@ -40,18 +40,20 @@
     "url": "https://codex.chatgpt-plus.top/",
     "icon": "https://icons.duckduckgo.com/ip3/codex.chatgpt-plus.top.ico",
     "slug": "codex-china",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 172,
-    "timeDay": 0,
-    "timeWeek": 172,
-    "timeMonth": 172,
-    "timeYear": 172,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 1321,
+    "timeDay": 19706,
+    "timeWeek": 1321,
+    "timeMonth": 1321,
+    "timeYear": 1321,
+    "dailyMinutesDown": {
+      "2026-06-13": 5
+    }
   },
   {
     "name": "gpt5.5模型 测活",
@@ -59,18 +61,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/codex.maynor1024.live.ico",
     "slug": "ccswitch-codex",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "84.95%",
+    "uptimeDay": "71.39%",
+    "uptimeWeek": "84.95%",
+    "uptimeMonth": "84.95%",
+    "uptimeYear": "84.95%",
     "time": 303,
     "timeDay": 0,
     "timeWeek": 303,
     "timeMonth": 303,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2026-06-12": 0
+      "2026-06-13": 15,
+      "2026-06-12": 397
     }
   },
   {
