@@ -4,9 +4,9 @@
     "url": "https://maynorai.top/",
     "icon": "https://icons.duckduckgo.com/ip3/maynorai.top.ico",
     "slug": "maynorai-main",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2226,
     "timeMonth": 2614,
     "timeYear": 2620,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-14": 0
+    }
   },
   {
     "name": "MaynorAPI Pro",
@@ -42,7 +44,7 @@
     "url": "https://codex.chatgpt-plus.top/",
     "icon": "https://icons.duckduckgo.com/ip3/codex.chatgpt-plus.top.ico",
     "slug": "codex-china",
-    "status": "up",
+    "status": "down",
     "uptime": "98.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
