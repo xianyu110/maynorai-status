@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynorai.top.ico",
     "slug": "maynorai-main",
     "status": "up",
-    "uptime": "91.55%",
+    "uptime": "91.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.19%",
-    "uptimeYear": "91.55%",
+    "uptimeYear": "91.56%",
     "time": 2586,
     "timeDay": 2101,
     "timeWeek": 2689,
@@ -48,9 +48,9 @@
     "url": "https://codex.chatgpt-plus.top/",
     "icon": "https://icons.duckduckgo.com/ip3/codex.chatgpt-plus.top.ico",
     "slug": "codex-china",
-    "status": "up",
+    "status": "down",
     "uptime": "94.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.07%",
     "uptimeYear": "94.53%",
@@ -65,7 +65,8 @@
       "2026-06-26": 20,
       "2026-07-16": 540,
       "2026-07-15": 1440,
-      "2026-07-14": 1057
+      "2026-07-14": 1057,
+      "2026-07-27": 0
     }
   },
   {
