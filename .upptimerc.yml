@@ -8,15 +8,147 @@ sites:
   - name: MaynorAPI Pro
     url: https://apipro.maynor1024.live/
     slug: maynorapi-pro
-  - name: Codex 中国站
-    url: https://momoai.asia/home
-    slug: codex-china
   - name: gpt5.5模型 测活
     url: https://codex.maynor1024.live/
     slug: ccswitch-codex
-  - name: Gemini 镜像站
+  - name: Codex中文站
+    url: https://codexinstall.asia
+    slug: codex-install
+  - name: Codex中国站 主站
+    url: https://momoai.asia
+    slug: codex-china
+  - name: Codex备用站
+    url: https://codex.trygpt.asia
+    slug: codex-backup
+  - name: GPT主站
+    url: https://chatgpt-plus.top/list/#/home
+    slug: gpt-main
+  - name: GPT备用站
+    url: https://old.trygpt.asia/list/#/home
+    slug: gpt-backup
+  - name: GPT三站
+    url: https://new.chatgpt-plus.top/list/#/home
+    slug: gpt-third
+  - name: GPT四站
+    url: https://new.maynorai.top/list/#/home
+    slug: gpt-fourth
+  - name: GPTPro充值服务
+    url: https://chongzhi.trygpt.asia
+    slug: gptpro-recharge
+  - name: GPT使用说明书
+    url: https://a7uxmstk6o.feishu.cn/docx/AQwAdrL0ZoZNy4x65DPckZk0nAf?from=from_copylink
+    slug: gpt-guide
+  - name: 客户端下载
+    url: https://pan.quark.cn/s/ac956aadcc57?pwd=Hjkk
+    slug: client-download
+  - name: ChatGPT实时渲染脚本
+    url: https://blog.csdn.net/xianyu120/article/details/155317466
+    slug: chatgpt-render-script
+  - name: GPT 国内站点
+    url: https://trygpt.asia/list/#/home
+    slug: gpt-cn
+  - name: 备用站
     url: https://kelaode.maynor1024.live/list/#/home
     slug: gemini-mirror
+  - name: 备用三站
+    url: https://kelaode.maynorai.top/list/#/home
+    slug: gpt-backup-third
+  - name: Gemini 国内站点
+    url: https://geminiai.asia/list/#/home
+    slug: gemini-cn
+  - name: Grok 国内站点
+    url: https://trygrokai.asia/
+    slug: grok-cn
+  - name: Claude 主站
+    url: https://claude-opus.top
+    slug: claude-main
+  - name: Claude 充值服务
+    url: https://upclaude.trygpt.asia
+    slug: claude-recharge
+  - name: Trymodel 网站——一站式支持Claude /Gemini/Grok/ ChatGPT模型
+    url: https://trymodel.chat
+    slug: trymodel
+  - name: Codex 入门教程
+    url: https://codex.maynorai.top/
+    slug: codex-tutorial
+  - name: Claude Code 从零到精通教程
+    url: https://awesome.claude-opus.top/zh/
+    slug: claude-code-tutorial
+  - name: 海外 API 站点，已开放注册！
+    url: https://tryallapi.com
+    slug: overseas-api
+  - name: API购买 | （特惠1.05元/一刀）
+    url: https://api.maynor1024.live
+    slug: api-purchase
+  - name: MaynorAI独角兽发卡网 店铺购买
+    url: https://momoai.dadoudou117.com
+    slug: store-main
+  - name: 2号 店铺购买（gpt grok claude）
+    url: https://pay.ldxp.cn/shop/maynorai
+    slug: store-backup
+  - name: momoAI 服务状态
+    url: https://status.maynorai.top/
+    slug: momoai-status
+  - name: Grok TaskPro 让信息主动找到你
+    url: https://trygroktask.asia/zh/
+    slug: grok-taskpro
+  - name: gptimage2 - 一键生成完美写真
+    url: https://gptimage2.asia/
+    slug: gptimage2
+  - name: 算了么
+    url: https://suanlem.asia/
+    slug: suanlem
+  - name: 视频号去水印
+    url: https://sphxiazai.com/
+    slug: wechat-video-downloader
+  - name: Tiktok无水印视频
+    url: https://nowatermarkdownloader.com/
+    slug: tiktok-downloader
+  - name: vibeappscan-检查你的vibe网站有没有漏洞
+    url: https://vibeappscan.online/
+    slug: vibeappscan
+  - name: tryseedream 即梦生图
+    url: https://tryseedream.asia/
+    slug: tryseedream
+  - name: tryminimax 生视频
+    url: https://tryminimax.asia/
+    slug: tryminimax
+  - name: 全能AI站点(一站式使用chatgpt/claude/deepseek/gemini)
+    url: https://all.trygpt.asia
+    slug: all-ai
+  - name: AI 信息差
+    url: https://news.maynorai.asia/
+    slug: ai-news
+  - name: NanoBanana Pro 无限画布v2.0
+    url: https://pro.nanobanana-free.top/
+    slug: nanobanana-canvas
+  - name: northhunt 游戏站
+    url: https://northhunt.wiki
+    slug: northhunt
+  - name: bilibili
+    url: https://space.bilibili.com/399102586
+    slug: bilibili
+  - name: GEO 是什么？下一代内容优化方法，让 AI 主动引用你 | GEO 指南
+    url: https://geoguide.online/
+    slug: geo-guide
+  - name: 在线工具导航
+    url: https://nav.maynor1024.live
+    slug: tools-nav
+  - name: image-prompt 图像提示词生成网站
+    url: https://image-prompt-generator.com/
+    slug: image-prompt
+  - name: Awesome GPT-Image-2 | 史上最全提示词实战手册
+    url: https://awesome.gptimage2.asia/
+    slug: awesome-gptimage2
+  - name: 科研AI绘图图库
+    url: http://keyan.nanobanana-free.top/
+    slug: research-image-gallery
+  - name: Bananapro提示词图库
+    url: https://awesome.nanobanana-free.top
+    slug: bananapro-prompts
+  - name: 每日AI资讯
+    url: https://nav.chatgpt-plus.top/
+    slug: daily-ai-news
 
 status-website:
   cname: status.maynorai.top
@@ -26,7 +158,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: momoAI Status
   introTitle: "momoAI 服务状态"
-  introMessage: "公开展示 momoAI 主站、API、Codex、gpt5.5模型与 Gemini 镜像站的可用性。状态数据由 GitHub Actions 自动探测并提交，故障记录可追溯。"
+  introMessage: "公开展示 momoAI 导航页收录的 Codex、ChatGPT、Gemini、Grok、Claude、API、AI 应用与资讯站点可用性。状态数据由 GitHub Actions 自动探测并提交，故障记录可追溯。"
   navbar:
     - title: 状态
       href: /
