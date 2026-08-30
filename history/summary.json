@@ -227,18 +227,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/a7uxmstk6o.feishu.cn.ico",
     "slug": "gpt-guide",
     "status": "down",
-    "uptime": "16.12%",
-    "uptimeDay": "16.12%",
-    "uptimeWeek": "16.12%",
-    "uptimeMonth": "16.12%",
-    "uptimeYear": "16.12%",
+    "uptime": "0.96%",
+    "uptimeDay": "0.96%",
+    "uptimeWeek": "0.96%",
+    "uptimeMonth": "0.96%",
+    "uptimeYear": "0.96%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-30": 2
+      "2026-08-30": 38
     }
   },
   {
@@ -265,18 +265,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.csdn.net.ico",
     "slug": "chatgpt-render-script",
     "status": "down",
-    "uptime": "17.22%",
-    "uptimeDay": "17.22%",
-    "uptimeWeek": "17.22%",
-    "uptimeMonth": "17.22%",
-    "uptimeYear": "17.22%",
+    "uptime": "0.80%",
+    "uptimeDay": "0.80%",
+    "uptimeWeek": "0.80%",
+    "uptimeMonth": "0.80%",
+    "uptimeYear": "0.80%",
     "time": 1476,
     "timeDay": 1476,
     "timeWeek": 1476,
     "timeMonth": 1476,
     "timeYear": 1476,
     "dailyMinutesDown": {
-      "2026-08-30": 2
+      "2026-08-30": 38
     }
   },
   {
@@ -735,18 +735,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pro.nanobanana-free.top.ico",
     "slug": "nanobanana-canvas",
     "status": "down",
-    "uptime": "16.55%",
-    "uptimeDay": "16.55%",
-    "uptimeWeek": "16.55%",
-    "uptimeMonth": "16.55%",
-    "uptimeYear": "16.55%",
+    "uptime": "0.53%",
+    "uptimeDay": "0.53%",
+    "uptimeWeek": "0.53%",
+    "uptimeMonth": "0.53%",
+    "uptimeYear": "0.53%",
     "time": 91,
     "timeDay": 91,
     "timeWeek": 91,
     "timeMonth": 91,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2026-08-30": 1
+      "2026-08-30": 37
     }
   },
   {
@@ -809,18 +809,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nav.maynor1024.live.ico",
     "slug": "tools-nav",
     "status": "down",
-    "uptime": "20.03%",
-    "uptimeDay": "20.03%",
-    "uptimeWeek": "20.03%",
-    "uptimeMonth": "20.03%",
-    "uptimeYear": "20.03%",
+    "uptime": "0.53%",
+    "uptimeDay": "0.53%",
+    "uptimeWeek": "0.53%",
+    "uptimeMonth": "0.53%",
+    "uptimeYear": "0.53%",
     "time": 83,
     "timeDay": 83,
     "timeWeek": 83,
     "timeMonth": 83,
     "timeYear": 83,
     "dailyMinutesDown": {
-      "2026-08-30": 1
+      "2026-08-30": 37
     }
   },
   {
@@ -901,18 +901,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nav.chatgpt-plus.top.ico",
     "slug": "daily-ai-news",
     "status": "down",
-    "uptime": "26.32%",
-    "uptimeDay": "26.32%",
-    "uptimeWeek": "26.32%",
-    "uptimeMonth": "26.32%",
-    "uptimeYear": "26.32%",
+    "uptime": "0.55%",
+    "uptimeDay": "0.55%",
+    "uptimeWeek": "0.55%",
+    "uptimeMonth": "0.55%",
+    "uptimeYear": "0.55%",
     "time": 89,
     "timeDay": 89,
     "timeWeek": 89,
     "timeMonth": 89,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2026-08-30": 1
+      "2026-08-30": 37
     }
   }
 ]
