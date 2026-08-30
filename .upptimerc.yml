@@ -9,7 +9,7 @@ sites:
     url: https://apipro.maynor1024.live/
     slug: maynorapi-pro
   - name: Codex 中国站
-    url: https://codex.chatgpt-plus.top/
+    url: https://momoai.asia/home
     slug: codex-china
   - name: gpt5.5模型 测活
     url: https://codex.maynor1024.live/

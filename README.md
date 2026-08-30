@@ -16,7 +16,7 @@ https://github.com/xianyu110/maynorai-status
 
 - momoAI 主站: https://maynorai.top/
 - MaynorAPI Pro: https://apipro.maynor1024.live/
-- Codex 中国站: https://codex.maynorai.top/
+- Codex 中国站: https://momoai.asia/home
 - Gemini 镜像站: https://kelaode.maynor1024.live/list/#/home
 - 永不失联发布页: https://link3.cc/maynorai
 
