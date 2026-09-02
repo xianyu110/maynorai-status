@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/maynorai.top.ico",
     "slug": "maynorai-main",
     "status": "down",
-    "uptime": "95.31%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "95.31%",
+    "uptime": "94.57%",
+    "uptimeDay": "35.03%",
+    "uptimeWeek": "90.72%",
+    "uptimeMonth": "97.86%",
+    "uptimeYear": "94.57%",
     "time": 2516,
     "timeDay": 1133,
     "timeWeek": 1043,
@@ -21,7 +21,7 @@
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1058,
-      "2026-09-02": 2
+      "2026-09-02": 936
     }
   },
   {
@@ -49,11 +49,11 @@
     "url": "https://codex.maynor1024.live/",
     "icon": "https://icons.duckduckgo.com/ip3/codex.maynor1024.live.ico",
     "slug": "ccswitch-codex",
-    "status": "up",
+    "status": "down",
     "uptime": "98.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "98.92%",
     "time": 267,
     "timeDay": 174,
@@ -66,7 +66,8 @@
       "2026-06-27": 94,
       "2026-06-26": 15,
       "2026-07-15": 107,
-      "2026-07-24": 184
+      "2026-07-24": 184,
+      "2026-09-02": 7
     }
   },
   {
@@ -92,12 +93,12 @@
     "url": "https://momoai.asia",
     "icon": "https://icons.duckduckgo.com/ip3/momoai.asia.ico",
     "slug": "codex-china",
-    "status": "up",
-    "uptime": "95.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "95.69%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.66%",
+    "uptimeYear": "95.69%",
     "time": 958,
     "timeDay": 643,
     "timeWeek": 403,
@@ -111,7 +112,8 @@
       "2026-07-15": 1440,
       "2026-07-14": 1057,
       "2026-07-28": 425,
-      "2026-07-27": 1138
+      "2026-07-27": 1138,
+      "2026-09-02": 2
     }
   },
   {
@@ -239,7 +241,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-02": 266,
+      "2026-09-02": 1200,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1174
@@ -280,7 +282,7 @@
     "timeMonth": 1346,
     "timeYear": 1346,
     "dailyMinutesDown": {
-      "2026-09-02": 266,
+      "2026-09-02": 1200,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1173
@@ -753,7 +755,7 @@
     "timeMonth": 198,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2026-09-02": 267,
+      "2026-09-02": 1200,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1173
@@ -830,7 +832,7 @@
     "timeMonth": 216,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2026-09-02": 267,
+      "2026-09-02": 1201,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1172
@@ -925,7 +927,7 @@
     "timeMonth": 135,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2026-09-02": 267,
+      "2026-09-02": 1201,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1172
