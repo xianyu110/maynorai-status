@@ -1,7 +1,7 @@
 url: https://suanlem.asia/
-status: up
-code: 200
-responseTime: 1011
-lastUpdated: 2026-10-24T01:24:38.785Z
+status: down
+code: 429
+responseTime: 46
+lastUpdated: 2026-10-24T21:32:53.791Z
 startTime: 2026-08-30T04:27:05.177Z
 generator: Upptime <https://github.com/upptime/upptime>
