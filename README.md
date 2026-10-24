@@ -75,7 +75,7 @@ Only enabled URL modules are included. Disabled links, QR codes, contact text, s
 
 ### 购买渠道
 
-- MaynorAI 独角兽发卡网 店铺购买: https://momoai.dadoudou117.com
+- MaynorAI 独角兽发卡网 店铺购买: https://wzyp.cn/shop/maynorai
 - 2 号 店铺购买（gpt grok claude）: https://pay.ldxp.cn/shop/maynorai
 - momoAI 服务状态: https://status.maynorai.top/
 
