@@ -1,7 +1,7 @@
 url: https://tryminimax.asia/
-status: up
-code: 200
-responseTime: 1373
-lastUpdated: 2026-10-24T01:24:43.762Z
+status: down
+code: 429
+responseTime: 78
+lastUpdated: 2026-10-24T21:33:37.346Z
 startTime: 2026-08-30T04:27:10.279Z
 generator: Upptime <https://github.com/upptime/upptime>
