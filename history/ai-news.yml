@@ -1,7 +1,7 @@
 url: https://news.maynorai.asia/
-status: up
-code: 200
-responseTime: 726
-lastUpdated: 2026-10-24T01:24:45.185Z
+status: down
+code: 429
+responseTime: 52
+lastUpdated: 2026-10-24T21:33:52.283Z
 startTime: 2026-08-30T04:27:12.093Z
 generator: Upptime <https://github.com/upptime/upptime>
