@@ -81,7 +81,7 @@ sites:
     url: https://api.maynor1024.live
     slug: api-purchase
   - name: MaynorAI独角兽发卡网 店铺购买
-    url: https://momoai.dadoudou117.com
+    url: https://wzyp.cn/shop/maynorai
     slug: store-main
   - name: 2号 店铺购买（gpt grok claude）
     url: https://pay.ldxp.cn/shop/maynorai
