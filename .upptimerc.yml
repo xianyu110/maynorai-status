@@ -54,7 +54,7 @@ sites:
     url: https://kelaode.maynorai.top/list/#/home
     slug: gpt-backup-third
   - name: Gemini 国内站点
-    url: https://geminiai.asia/list/#/home
+    url: https://gemini-ultra.top/list/#/home
     slug: gemini-cn
   - name: Grok 国内站点
     url: https://trygrokai.asia/
