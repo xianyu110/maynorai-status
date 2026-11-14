@@ -548,8 +548,8 @@
   },
   {
     "name": "Gemini 国内站点",
-    "url": "https://geminiai.asia/list/#/home",
-    "icon": "https://icons.duckduckgo.com/ip3/geminiai.asia.ico",
+    "url": "https://gemini-ultra.top/list/#/home",
+    "icon": "https://icons.duckduckgo.com/ip3/gemini-ultra.top.ico",
     "slug": "gemini-cn",
     "status": "up",
     "uptime": "100.00%",
