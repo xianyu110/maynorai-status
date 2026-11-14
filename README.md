@@ -51,7 +51,7 @@ Only enabled URL modules are included. Disabled links, QR codes, contact text, s
 
 ### Gemini 中国官网
 
-- Gemini 国内站点: https://geminiai.asia/list/#/home
+- Gemini 国内站点: https://gemini-ultra.top/list/#/home
 
 ### Grok 中国官网
 
